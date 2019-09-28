@@ -1,7 +1,8 @@
-package com.example.jetpack_navigation
+package com.example.jetpack_navigation.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.jetpack_navigation.R
 
 class MainActivity : AppCompatActivity() {
 
